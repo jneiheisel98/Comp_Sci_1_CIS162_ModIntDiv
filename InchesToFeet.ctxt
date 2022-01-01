@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=InchesToFeet
+comment0.text=\r\n\ Demostrates\ integer\ division\ and\ mod/remainder\ operation\r\n\ Converts\ the\ total\ numbers\ of\ inches\ to\ feet\ and\ inches.\r\n\ \r\n\ @author\ Ana\ Posada\r\n\ @version\ 0.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
